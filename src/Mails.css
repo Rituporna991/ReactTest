@@ -1,0 +1,10 @@
+.Mails{
+    height: 80%;
+    width:80%;
+    text-align: center;
+    border:10px  solid slateblue ;
+    border-radius: 10px;
+    padding: 1em;
+    background-color: slateblue;
+    background-image: url('animation.gif');
+}
